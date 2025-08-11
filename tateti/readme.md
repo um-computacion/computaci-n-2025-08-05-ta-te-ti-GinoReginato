@@ -1,7 +1,7 @@
 # Tateti en Python
-# Gino Reginato   
-# Legajo: 63280
-# Carrera: Informatica
+## Gino Reginato   
+## Legajo: 63280
+## Carrera: Informatica
 
 Este proyecto implementa el clásico juego de **Tateti** (Tres en línea) para jugar en consola entre dos personas.
 
